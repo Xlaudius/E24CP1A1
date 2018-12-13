@@ -1,0 +1,2 @@
+class MixingColorsController < ApplicationController
+end
